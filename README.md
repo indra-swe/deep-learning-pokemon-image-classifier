@@ -36,3 +36,9 @@ To handle the difference between bright anime colors and dark 3D renders, I used
 ## 🚀 How to Run
 1.  Clone the repo.
 2.  Run the notebook. The script automatically downloads the dataset (60MB) and performs the augmentation.
+
+## 📜 License & Disclaimer
+The **source code** for the model and training pipeline is licensed under the [MIT License](LICENSE).
+
+**Disclaimer regarding the dataset:**
+The Pokémon images and names used in this project are trademarks and/or copyrighted materials of their respective owners (The Pokémon Company, Nintendo, Game Freak, Creatures Inc.). This project is a non-profit, educational research project demonstrating computer vision techniques (Fair Use). No copyright infringement is intended.
